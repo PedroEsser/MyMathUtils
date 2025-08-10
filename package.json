@@ -1,0 +1,11 @@
+{
+    "name": "com.pedroesser.mathutils",
+    "version": "1.0.0",
+    "displayName": "Math Utils",
+    "description": "A collection of math utility scripts for Unity.",
+    "unity": "2020.3",
+    "author": {
+      "name": "Pedro Esser",
+      "email": "pedro.esser@hotmail.com"
+    }
+  }
